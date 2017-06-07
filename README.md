@@ -1,2 +1,3 @@
-# jekyll_demo
-## jekyll demo
+## jekyll_demo
+# pages
+https://lanmei.github.io/jekyll_demo/
